@@ -1,5 +1,5 @@
 # Problem Setting
-This repo is a collection of all problems authored by me in various programming contests.
+This repo is a collection of all problems authored by me in various national level programming contests.
 
 ## 📘 Problems in Programming Contests
 | # | Title | Tags | Contest | Date |
